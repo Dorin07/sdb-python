@@ -1,0 +1,109 @@
+{
+  "product": [
+    {
+      "id": "1234567890",
+      "name": "Book",
+      "company": "Arthur",
+      "price": 23,
+      "amount": 15
+    },
+    {
+      "id": "0000000034",
+      "name": "Chocolate",
+      "company": "Milka",
+      "price": 7,
+      "amount": 32
+    },
+    {
+      "id": "1212121255",
+      "name": "Soda",
+      "company": "CocaCola",
+      "price": 4,
+      "amount": 13
+    },
+    {
+      "id": "9870654321",
+      "name": "Chair",
+      "company": "Ikea",
+      "price": 30,
+      "amount": 10
+    },
+    {
+      "id": "1123455",
+      "name": "Lego",
+      "company": "Lego",
+      "price": 41,
+      "amount": 25
+    },
+    {
+      "id": "7777777",
+      "name": "Cards",
+      "company": "D&D",
+      "price": 6,
+      "amount": 15
+    },
+    {
+      "id": "5678900987",
+      "name": "Bread",
+      "company": "PaneDolce",
+      "price": 5,
+      "amount": 32
+    },
+    {
+      "id": "23212321",
+      "name": "Coffee",
+      "company": "Jacobs",
+      "price": 16,
+      "amount": 6
+    },
+    {
+      "id": "1231231234",
+      "name": "Cup of Coffee",
+      "company": "Jacobs",
+      "price": 4,
+      "amount": 4
+    },
+    {
+      "id": "0101010101",
+      "name": "Fanta",
+      "company": "CocaCola",
+      "price": 5,
+      "amount": 12
+    },
+    {
+      "id": "1111000011",
+      "name": "Sprite",
+      "company": "CocaCola",
+      "price": 4,
+      "amount": 6
+    },
+    {
+      "id": "2020202108",
+      "name": "Lego Car",
+      "company": "Lego",
+      "price": 45,
+      "amount": 5
+    },
+    {
+      "id": "121021001",
+      "name": "Croissant",
+      "company": "PaneDolce",
+      "price": 4,
+      "amount": 15
+    },
+    {
+      "id": "22122",
+      "name": "Coffee Table",
+      "company": "Ikea",
+      "price": 57,
+      "amount": 11
+    },
+    {
+      "id": "2021220201",
+      "name": "Book Marks",
+      "company": "Arthur",
+      "price": 2,
+      "amount": 40
+    }
+  ]
+}
