@@ -100,7 +100,7 @@ class ConsoleUI:
     def __print_smaller_price(self):
         """
         Returns the products which have a smaller price then a given price
-        :return:
+        :return: The products that have a smaller price
         """
         price = int(input("Please insert a price after which the others products you want to see: "))
         products = self.__statistics_service.smaller_price()
